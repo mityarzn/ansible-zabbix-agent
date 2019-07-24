@@ -4,6 +4,8 @@ sign_keys:
   "42":
     bionic:
       sign_key: A14FE591
+    buster:
+      sign_key: A14FE591
     sonya:
       sign_key: A14FE591
     serena:
@@ -20,6 +22,8 @@ sign_keys:
       sign_key: E709712C
   "40":
     bionic:
+      sign_key: A14FE591
+    buster:
       sign_key: A14FE591
     sonya:
       sign_key: A14FE591
